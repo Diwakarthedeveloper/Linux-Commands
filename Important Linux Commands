@@ -1,0 +1,49 @@
+sudo su - -> to switch to root user 
+ls -> list files and directories 
+pwd ->  Prints the present working directory)\
+cat-> Prints file contents
+cp -> Copies files and directories
+mv -> Moves and renames files and directories
+rm -> Remove files and directories
+touch -> Creates empty files
+mkdir -> Creates directories
+wget ->	Retrieves files from the internet
+find ->	Searches for files that follow a pattern
+neofetch ->	Displays OS and hardware information
+uname ->	Displays OS information
+wc ->	Word count files
+whatis ->	Shows single-line descriptions
+whoami ->	Outputs username of the current user 
+grep ->	Prints lines that match patterns
+head ->	Displays first lines of a file
+tail ->	Displays last lines of a file
+less ->	Inspects files interactively
+shred ->	Overwrites a file to hide its contents
+which ->	Returns the full binary path of a program
+passwd ->	Changes user password
+history ->	Shows a list of previous commands
+vim ->	Efficient text editing
+apt, yum, pacman -> 	Package managers
+echo ->	Displays lines of text
+cat ->	Prints file contents
+ps ->	Reports shell processes status
+kill ->	Terminates programs
+ping ->	Tests network connectivity
+unzip ->	Extracts compressed ZIP files
+htop ->	Displays processes and resources information
+shutdown ->	Shutdowns your machine
+sudo ->	Executes commands as superuser
+exit ->	Exits the current shell session
+./ ->	Runs an executable
+chmod ->	Changes file permissions
+touch ->	Creates empty files
+man ->	Displays manual page of other commands
+mkdir ->	Creates directories
+mv ->	Moves (renames) files and directories
+rm ->	Remove files and directories
+cp ->	Copies files and directories
+cd ->	Changes directory
+pwd 	->Prints the working directory
+unalias ->	Remove alias definitions
+alias ->	Define or display aliases
+ssh-keygen -> created a public/private rsa keypair 
